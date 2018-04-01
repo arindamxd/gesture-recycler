@@ -311,7 +311,7 @@ public abstract class GestureAdapter<T, K extends GestureViewHolder> extends Rec
      * @param toPosition end position
      * @return returns true if transition is successful
      */
-    boolean onItemMove(final int fromPosition, final int toPosition) {
+    protected boolean onItemMove(final int fromPosition, final int toPosition) {
         if (mSwappedItem == null) {
             mStartDragPos = fromPosition;
             mSwappedItem = mData.get(fromPosition);
