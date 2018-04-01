@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gesture-recycler.iml" filepath="$PROJECT_DIR$/gesture-recycler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/gesture-recycler-gesture-recycler.iml" filepath="$PROJECT_DIR$/library/gesture-recycler-gesture-recycler.iml" />
+    </modules>
+  </component>
+</project>
